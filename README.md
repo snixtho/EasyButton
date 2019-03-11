@@ -1,6 +1,6 @@
 # Example
 ## Circuit
-[!Schematic](schematic.png Schematic)
+[!Schematic](schematic.png "Schematic")
 ## Code
 ```cpp
 #include <EasyButton.h>
