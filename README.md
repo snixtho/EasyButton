@@ -3,7 +3,7 @@ EasyButton is a simple library that makes it easy to handle button input on a pi
 
 # Example
 ## Circuit
-[!Schematic](schematic.png "Schematic")
+![Schematic](schematic.png "Schematic")
 ## Code
 ```cpp
 #include <EasyButton.h>
