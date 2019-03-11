@@ -1,3 +1,6 @@
+# About
+EasyButton is a simple library that makes it easy to handle button input on a pin.
+
 # Example
 ## Circuit
 [!Schematic](schematic.png "Schematic")
